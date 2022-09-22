@@ -1,4 +1,4 @@
-# Webpack App Starter
+# [Webpack](https://webpack.js.org/) App Starter
 
 Frontend environment for building JavaScript applications
 
